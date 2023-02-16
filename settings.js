@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['94758437638'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ꜱᴀʙᴇᴇ ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -34,36 +34,36 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'ᴛʜᴀᴀʀɪ ʙᴏᴛ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'ꜱᴀꜱꜱʜɪᴋᴀ' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'ᴛʜᴀᴀʀɪ ʙᴏᴛ' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_ꜱᴀꜱꜱʜɪᴋᴀ_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🐼'
+global.OWNER_REACT =  '👼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+global.BUTTON1 = 'ᴡʜᴀᴛꜱᴀᴘᴘ'
 //👇 URL button 2 name
-global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
+global.BUTTON2 = 'ᴛɪᴋᴛᴏᴋ'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'contact us https://api.whatsapp.com/send?phone=+94758437638'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'tiktok.com/@wikz_sabee'
 //👇 Your Add Massage 
-global.ADD_MSG = '*✅ Success add Group*' 
+global.ADD_MSG = '*ᴡᴇʟᴄᴏᴍᴇ ⚡𝐓𝐡𝐚𝐚𝐫𝐢 𝐌𝐮𝐬𝐢𝐜 𝐇𝐮𝐛🎧🪀🎀' 
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ ꜱᴀʙᴇᴇ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️ꜱᴀʙᴇᴇ Uploding Your Song...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
@@ -75,15 +75,15 @@ global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
-global.LANG = 'EN'
+global.LANG = 'SI'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://ibb.co/R0kHQxf`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝚜𝚊𝚋𝚎𝚎 𝚒𝚜 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || ``
+global.WELCOME = process.env.WELCOME || `𝚠𝚎𝚕𝚌𝚘𝚖𝚎 ⚡𝐓𝐡𝐚𝐚𝐫𝐢 𝐌𝐮𝐬𝐢𝐜 𝐇𝐮𝐛🎧🪀🎀`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://ibb.co/xJFz4FV`
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["94758437638"]
 
 
 
